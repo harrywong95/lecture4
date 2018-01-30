@@ -1,3 +1,5 @@
 This is text file 2. 
 
 Something else
+
+edit2: branch2 edit
